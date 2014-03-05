@@ -4,6 +4,8 @@ language: ruby
 before_install:
   - rvm get head
 
+script: bundle exec rspec
+
 rvm:
   - 2.1.0
   - 2.0.0
