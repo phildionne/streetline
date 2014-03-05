@@ -1,6 +1,6 @@
 # Streetline
 
-A ruby client for the [Streetline](http://www.streetline.com/) api. Currently only supporting the bulk "/ParkingDestinations" endpoint.
+A ruby client for the [Streetline](http://www.streetline.com/) api. Currently only supporting the bulk `/ParkingDestinations` endpoint.
 
 ## Configuration
 
@@ -24,6 +24,7 @@ Returns all parking destinations:
 
 ```ruby
 destinations = client.destinations
+# => #<Array: ...>
 
 destinations.first
 # => { "DestinationID" => "...", "DestinationName" => "...", "Latitude" => "...", "Longitude" => "...", "TimeZone" => "...", "PaymentMethodsAccepted" => {}, "RateHighest" => "...", "RateLowest" => "....", "CurrencySymbol" => "..." }
