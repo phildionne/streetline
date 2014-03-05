@@ -18,4 +18,5 @@ Gem::Specification.new do |s|
   s.rubyforge_project = '[none]'
   s.add_dependency 'faraday', '~> 0.8'
   s.add_dependency 'faraday_middleware'
+  s.add_dependency 'activesupport', '>= 3.2.14'
 end
