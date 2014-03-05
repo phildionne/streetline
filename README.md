@@ -2,6 +2,13 @@
 
 A ruby client for the [Streetline](http://www.streetline.com/) api. Currently only supporting the bulk `/ParkingDestinations` endpoint.
 
+[![Gem Version](https://badge.fury.io/rb/streetline.png)](http://badge.fury.io/rb/streetline)
+[![Code Climate](https://codeclimate.com/github/phildionne/streetline.png)](https://codeclimate.com/github/phildionne/streetline)
+[![Coverage Status](https://coveralls.io/repos/phildionne/streetline/badge.png)](https://coveralls.io/r/phildionne/streetline)
+[![Dependency Status](https://gemnasium.com/phildionne/streetline.png)](https://gemnasium.com/phildionne/streetline)
+[![Build Status](https://travis-ci.org/phildionne/streetline.png)](https://travis-ci.org/phildionne/streetline)
+
+
 ## Configuration
 
 Single token usage:
