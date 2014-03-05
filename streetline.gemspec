@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.email         = ["dionne.phil@gmail.com"]
   s.homepage      = "https://github.com/phildionne/streetline"
   s.licenses      = ['MIT']
-  s.summary       = "TODO: summary"
-  s.description   = "TODO: description"
+  s.summary       = "Ruby client for the Streetline API"
+  s.description   = "Ruby client for the Streetline API"
 
   s.files         = `git ls-files app lib`.split("\n")
   s.platform      = Gem::Platform::RUBY
