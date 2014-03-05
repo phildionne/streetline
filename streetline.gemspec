@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.authors       = ["Philippe Dionne"]
   s.email         = ["dionne.phil@gmail.com"]
   s.homepage      = "https://github.com/phildionne/streetline"
+  s.licenses      = ['MIT']
   s.summary       = "TODO: summary"
   s.description   = "TODO: description"
 
@@ -16,6 +17,8 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.require_paths = ['lib']
   s.rubyforge_project = '[none]'
+  s.test_files    = s.files.grep(%r{^(spec)/})
+
   s.add_dependency 'faraday', '~> 0.8'
   s.add_dependency 'faraday_middleware'
   s.add_dependency 'activesupport', '>= 3.2.14'
