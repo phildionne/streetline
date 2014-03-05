@@ -10,3 +10,7 @@ rvm:
   - 2.1.0
   - 2.0.0
   - 1.9.3
+
+env:
+  global:
+    - secure: "fFgzWWa8HW2XpQe4llp0YFKzodD+lrLNWA7v2u9er527ZMoRUt3FuOucm13bjWQqsC2JilUNNBs+n14m+j/rA26dbKZ96EUla9wovrD3HkrddDGkw3pqtf3qgyiVamD2CtSyHWDL+8xdlOcech0xDrk738gldvds3cT6utFh5qs="
