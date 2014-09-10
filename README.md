@@ -7,6 +7,7 @@ A ruby client for the [Streetline](http://www.streetline.com/) API. Currently on
 [![Coverage Status](https://coveralls.io/repos/phildionne/streetline/badge.png)](https://coveralls.io/r/phildionne/streetline)
 [![Dependency Status](https://gemnasium.com/phildionne/streetline.png)](https://gemnasium.com/phildionne/streetline)
 [![Build Status](https://travis-ci.org/phildionne/streetline.png)](https://travis-ci.org/phildionne/streetline)
+[![streetline API Documentation](https://www.omniref.com/ruby/gems/streetline.png)](https://www.omniref.com/ruby/gems/streetline)
 
 
 ## Configuration
